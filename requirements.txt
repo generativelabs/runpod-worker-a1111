@@ -1,0 +1,5 @@
+Pillow
+requests
+huggingface_hub
+python-dotenv
+runpod
