@@ -129,7 +129,7 @@ Network Volume with the `input`, and returns the `output`
 in the JSON response.
 
 ## Acknowledgements
-
+- [Ashley Kleynhans](https://github.com/ashleykleynhans/)
 - [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Generative Labs YouTube Tutorials](https://www.youtube.com/@generativelabs)
 
@@ -142,9 +142,9 @@ in the JSON response.
 
 ## Community and Contributing
 
-Pull requests and issues on [GitHub](https://github.com/ashleykleynhans/runpod-worker-a1111)
+Pull requests and issues on [GitHub](https://github.com/generativelabs/runpod-worker-a1111)
 are welcome. Bug fixes and new features are encouraged.
 
-## Appreciate my work?
+## Appreciate the work?
 
 <a href="https://www.buymeacoffee.com/ashleyk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
